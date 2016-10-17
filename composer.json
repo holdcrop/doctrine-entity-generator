@@ -1,0 +1,14 @@
+{
+    "name": "pholdcroft/doctrine-entity-generator",
+    "description": "Generate Basic Doctrine Suitable Entity and Repository Classes from your Database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pierce Holdcroft",
+            "email": "pholdcroft@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
